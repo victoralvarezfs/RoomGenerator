@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 0}
+  m_Name: My VR Room
+  m_EditorClassIdentifier: Assembly-CSharp::VRRoom
+  floorPrefab: {fileID: 0}
+  wallPrefab: {fileID: 0}
+  roomType: 0
+  roomShape: 0
+  roomStyle: 0
+  roomPolygons: []
+  size: {x: 0, y: 0}
+  emptyFather: {fileID: 0}
+  vrRoom: {fileID: 0}
